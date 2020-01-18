@@ -1,0 +1,45 @@
+ body{
+ 	
+background-color: #949191;
+ 	
+margin: 0;
+ }
+ div{
+
+width: 950px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+background-color: gray;
+
+margin-top: 70px;
+
+padding: 35px;
+
+box-shadow: 0 2px 10px #00000047;
+
+}
+h1{
+
+font-size: 60px;
+
+margin: 0;
+
+text-transform: capitalize;
+
+color: #fff;
+}
+span{
+	
+color: #34e2ca;
+}
+p{
+
+color: #fff;
+
+font-size: 25px;
+
+line-height: 1.4;
+}
